@@ -1,0 +1,16 @@
+[
+    {
+        "cpf": "2312412",
+        "nome": "icaro costa",
+        "cargo": "gerente",
+        "data_contratacao": "28/10/2024",
+        "salario": 1.929
+    },
+    {
+        "cpf": "314124124",
+        "nome": "icaro costa",
+        "cargo": "dev",
+        "data_contratacao": "28/10/2024",
+        "salario": 213123.0
+    }
+]
