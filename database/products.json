@@ -1,10 +1,16 @@
 [
     {
+        "id": 1,
+        "name": "Rolamento SKF",
+        "description": "Rolamento cônico de esferas",
+        "entry_date": "09/09/2010",
+        "expiration_date": "09/09/2020"
+    },
+    {
         "id": 2,
-        "name": "ababababababa",
-        "description": "abababababab",
-        "entry_date": "ababababa",
-        "expiration_date": "abababba",
-        "exit_date": "ababa"
+        "name": "Pão",
+        "description": "asdasklçd",
+        "entry_date": "12/12/2012",
+        "expiration_date": "23/12/2024"
     }
 ]

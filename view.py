@@ -23,5 +23,6 @@ def clear_terminal():
 def quit():
     print("Encerrando o programa...")
     time.sleep(2)
-    print("Ciao!!")
+    print("🪵  Obrigado por usar nosso sistema, volte sempre! 🪵")
+    print("Woodstock® Todos os direitos reservados")
     exit(0)
